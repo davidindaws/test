@@ -2,3 +2,8 @@
 	path = OCA/l10n-spain
 	url = git@github.com:OCA/l10n-spain.git
 	branch = 15.0
+
+[submodule "OCA/crm"]
+	path = OCA/crm
+	url = git@github.com:OCA/crm.git
+	branch = 15.0
