@@ -7,3 +7,8 @@
 	path = OCA/crm
 	url = git@github.com:OCA/crm.git
 	branch = 15.0
+
+[submodule "OCA/hr-attendance"]
+	path = OCA/hr-attendance
+	url = git@github.com:OCA/hr-attendance.git
+	branch = 15.0
